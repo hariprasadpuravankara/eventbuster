@@ -1,0 +1,12 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: eventbuster2
+  host: eventbuster2
+  disk_quota: 1024M
+  services:
+  - eventbuster2-AdvancedMobileAccess
+  - eventbuster2-imfpush
+  - eventbuster-cloudantNoSQLDB
