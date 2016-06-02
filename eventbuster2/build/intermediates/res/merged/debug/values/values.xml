@@ -12,11 +12,13 @@
     <string name="cancel">Cancel</string>
     <string name="completed">COMPLETED</string>
     <string name="create">Create</string>
+    <string name="create_event">Create Event</string>
     <string name="default_api_key">eeksteractiststuaressiza</string>
     <string name="default_api_password">3e1ac964a303da22fd9fe666f5d5331e6a32b9c9</string>
     <string name="default_dbname">eventbuster</string>
     <string name="default_user">3bff8b23-aac6-4813-8ee1-72facc95922b-bluemix</string>
     <string name="enter_description">Enter task description</string>
+    <string name="manage_event">Manage Event</string>
     <string name="new_task">New Event</string>
     <string name="pref_summary_api_key">The api key used to replicate to/from your cloudant account.</string>
     <string name="pref_summary_api_password">The api password used to replicate to/from your cloudant account.</string>
@@ -29,6 +31,7 @@
     <string name="replication_completed">Replication completed</string>
     <string name="replication_error">Replication error</string>
     <string name="replication_running">Replication is running</string>
+    <string name="search_event">Search Event</string>
     <string name="task_not_created">Task not created because description is empty</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--

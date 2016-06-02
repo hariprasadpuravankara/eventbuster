@@ -25,5 +25,8 @@
     <string name="pref_title_username">Cloudant user name</string>
     <string name="pref_summary_dbname">You cloudant db name, and this is the db used in replication.</string>
     <string name="pref_title_dbname">Cloudant db name</string>
+    <string name="create_event">Create Event</string>
+    <string name="search_event">Search Event</string>
+    <string name="manage_event">Manage Event</string>
 
 </resources>

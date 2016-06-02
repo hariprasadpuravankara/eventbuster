@@ -72,13 +72,6 @@
         <dex dex="C:\Users\U30787\Desktop\hackathon\development\workspace\eventbuster2\eventbuster2\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-23.3.0_200086340664ea81e514329013cfc563bb1b6d3c\classes.dex" />
     </item>
     <item
-        jar="C:\Users\U30787\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.1.1\b01cc83e745fc4425a3968fafbf8e5b8254a6dd\jackson-annotations-2.1.1.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="0b01cc83e745fc4425a3968fafbf8e5b8254a6dd">
-        <dex dex="C:\Users\U30787\Desktop\hackathon\development\workspace\eventbuster2\eventbuster2\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.1.1_64f5a7cf16fc6dabb83aff1d44ed3eec688749e8\classes.dex" />
-    </item>
-    <item
         jar="C:\Users\U30787\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.1.1\38d2b3c0c89af5b937fd98c3e558bf6b58c14aa2\jackson-databind-2.1.1.jar"
         jumboMode="true"
         revision="21.1.2"
@@ -86,10 +79,17 @@
         <dex dex="C:\Users\U30787\Desktop\hackathon\development\workspace\eventbuster2\eventbuster2\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.1.1_93d0dabb6cb0480fec087655cb53ef28de61b2ea\classes.dex" />
     </item>
     <item
+        jar="C:\Users\U30787\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.1.1\b01cc83e745fc4425a3968fafbf8e5b8254a6dd\jackson-annotations-2.1.1.jar"
+        jumboMode="true"
+        revision="21.1.2"
+        sha1="0b01cc83e745fc4425a3968fafbf8e5b8254a6dd">
+        <dex dex="C:\Users\U30787\Desktop\hackathon\development\workspace\eventbuster2\eventbuster2\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.1.1_64f5a7cf16fc6dabb83aff1d44ed3eec688749e8\classes.dex" />
+    </item>
+    <item
         jar="C:\Users\U30787\Desktop\hackathon\development\workspace\eventbuster2\eventbuster2\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="21.1.2"
-        sha1="2bcaf81147f3916b6a3d327f98bbfb9ebd52e46f">
+        sha1="ba40beec6269eb824ba013c2857e16a6bc1b9d88">
         <dex dex="C:\Users\U30787\Desktop\hackathon\development\workspace\eventbuster2\eventbuster2\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_94313c218f312c940aac41fc280573b738e3825e\classes.dex" />
     </item>
     <item
@@ -110,7 +110,7 @@
         jar="C:\Users\U30787\Desktop\hackathon\development\workspace\eventbuster2\eventbuster2\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="21.1.2"
-        sha1="668ff5a0e3edc1d46d5d7e786927970ef2bad508">
+        sha1="d1e9e6f1692c5b22d3266a06e5f899df2126d9b2">
         <dex dex="C:\Users\U30787\Desktop\hackathon\development\workspace\eventbuster2\eventbuster2\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_161f2f5907a673392c8e73abd4e016ba48e7318c\classes.dex" />
     </item>
 

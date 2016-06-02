@@ -5,14 +5,13 @@
          android:layout_height="match_parent"
          android:paddingLeft="8dp"
          android:paddingRight="8dp"
-     android:background="@mipmap/Lighthouse">
+     android:background="@mipmap/register">
 
      <ListView android:id="@android:id/list"
                android:layout_width="match_parent"
-               android:layout_height="match_parent"
+               android:layout_height="429dp"
                android:background="@android:color/transparent"
-               android:layout_weight="1"
-               android:choiceMode="singleChoice"
-               android:drawSelectorOnTop="false"/>
+         android:choiceMode="singleChoice"
+               android:drawSelectorOnTop="false" />
      
  </LinearLayout>
