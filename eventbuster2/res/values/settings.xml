@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="default_user">3bff8b23-aac6-4813-8ee1-72facc95922b-bluemix</string>
+    <string name="default_dbname">eventbuster</string>
+    <string name="default_api_key">eeksteractiststuaressiza</string>
+    <string name="default_api_password">3e1ac964a303da22fd9fe666f5d5331e6a32b9c9</string>
+
+</resources>
