@@ -8,14 +8,14 @@ import android.widget.Button;
 
 public class HomeActivity extends Activity {
 
-    Button btn=(Button)findViewById(R.id.createbutton);
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home);
 
-
+        Button btn=(Button)findViewById(R.id.createbutton);
         btn.setOnClickListener(new View.OnClickListener()
         {
             public void onClick(View v)

@@ -4,29 +4,34 @@
     api-level="22"
     density="xxhdpi"
     format="7"
-    timestamp="11213858296658" >
+    timestamp="11736523748377" >
 
     <task
         name="javac"
-        duration="381" />
+        duration="189" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="132" />
+        duration="32" />
     <task
         name="verifier"
-        duration="66" />
+        duration="3" />
 
     <artifact
-        location="C:\Users\U30787\Desktop\hackathon\development\workspace\eventbuster2\eventbuster2\build\outputs\apk\eventbuster2-debug.apk"
-        type="MAIN" />
+        location="C:\Users\U30787\Desktop\hackathon\development\workspace\eventbuster2\eventbuster2\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
 
-    <build timestamp="11213858296658" >
+    <build timestamp="11500273122641" >
         <artifact
             location="C:\Users\U30787\Desktop\hackathon\development\workspace\eventbuster2\eventbuster2\build\outputs\apk\eventbuster2-debug.apk"
             type="MAIN" />
+    </build>
+    <build timestamp="11736523748377" >
+        <artifact
+            location="C:\Users\U30787\Desktop\hackathon\development\workspace\eventbuster2\eventbuster2\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>
