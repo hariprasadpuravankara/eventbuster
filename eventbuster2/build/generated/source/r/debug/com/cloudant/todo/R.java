@@ -18,25 +18,29 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_delete=0x7f0a0007;
-        public static final int action_download=0x7f0a0009;
-        public static final int action_new=0x7f0a0008;
-        public static final int action_settings=0x7f0a000b;
-        public static final int action_upload=0x7f0a000a;
-        public static final int button2=0x7f0a0001;
-        public static final int button3=0x7f0a0002;
-        public static final int checkbox_completed=0x7f0a0005;
+        public static final int action_delete=0x7f0a000a;
+        public static final int action_download=0x7f0a000c;
+        public static final int action_new=0x7f0a000b;
+        public static final int action_settings=0x7f0a000e;
+        public static final int action_upload=0x7f0a000d;
+        public static final int button=0x7f0a0005;
+        public static final int capturemood=0x7f0a0002;
+        public static final int checkbox_completed=0x7f0a0008;
         public static final int createbutton=0x7f0a0000;
-        public static final int new_task_desc=0x7f0a0004;
-        public static final int progress=0x7f0a0003;
-        public static final int task_description=0x7f0a0006;
+        public static final int editText=0x7f0a0004;
+        public static final int new_task_desc=0x7f0a0007;
+        public static final int progress=0x7f0a0006;
+        public static final int search=0x7f0a0001;
+        public static final int task_description=0x7f0a0009;
+        public static final int textView=0x7f0a0003;
     }
     public static final class layout {
         public static final int activity_home=0x7f040000;
-        public static final int activity_todo=0x7f040001;
-        public static final int dialog_loading=0x7f040002;
-        public static final int dialog_new_task=0x7f040003;
-        public static final int task_item=0x7f040004;
+        public static final int activity_search_result=0x7f040001;
+        public static final int activity_todo=0x7f040002;
+        public static final int dialog_loading=0x7f040003;
+        public static final int dialog_new_task=0x7f040004;
+        public static final int task_item=0x7f040005;
     }
     public static final class menu {
         public static final int context_menu=0x7f090000;
@@ -50,8 +54,11 @@ public final class R {
         public static final int logo=0x7f030004;
         public static final int low=0x7f030005;
         public static final int medium=0x7f030006;
-        public static final int plusbutton=0x7f030007;
-        public static final int register=0x7f030008;
+        public static final int moods=0x7f030007;
+        public static final int myevents=0x7f030008;
+        public static final int plusbutton=0x7f030009;
+        public static final int register=0x7f03000a;
+        public static final int search=0x7f03000b;
     }
     public static final class string {
         public static final int action_delete=0x7f080000;

@@ -1,26 +1,38 @@
 [
     {
-        "merged": "C:\\Users\\U30787\\Desktop\\hackathon\\development\\workspace\\eventbuster2\\eventbuster2\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\logo.png",
-        "source": "C:\\Users\\U30787\\Desktop\\hackathon\\development\\workspace\\eventbuster2\\eventbuster2\\res\\mipmap-mdpi\\logo.png"
+        "merged": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\medium.png",
+        "source": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\res\\mipmap-mdpi\\medium.png"
     },
     {
-        "merged": "C:\\Users\\U30787\\Desktop\\hackathon\\development\\workspace\\eventbuster2\\eventbuster2\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\bluemix_logo.png",
-        "source": "C:\\Users\\U30787\\Desktop\\hackathon\\development\\workspace\\eventbuster2\\eventbuster2\\res\\mipmap-mdpi\\bluemix_logo.png"
+        "merged": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\moods.jpg",
+        "source": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\res\\mipmap-mdpi\\moods.jpg"
     },
     {
-        "merged": "C:\\Users\\U30787\\Desktop\\hackathon\\development\\workspace\\eventbuster2\\eventbuster2\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\medium.png",
-        "source": "C:\\Users\\U30787\\Desktop\\hackathon\\development\\workspace\\eventbuster2\\eventbuster2\\res\\mipmap-mdpi\\medium.png"
+        "merged": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\bluemix_logo.png",
+        "source": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\res\\mipmap-mdpi\\bluemix_logo.png"
     },
     {
-        "merged": "C:\\Users\\U30787\\Desktop\\hackathon\\development\\workspace\\eventbuster2\\eventbuster2\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\plusbutton.png",
-        "source": "C:\\Users\\U30787\\Desktop\\hackathon\\development\\workspace\\eventbuster2\\eventbuster2\\res\\mipmap-mdpi\\plusbutton.png"
+        "merged": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\myevents.jpg",
+        "source": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\res\\mipmap-mdpi\\myevents.jpg"
     },
     {
-        "merged": "C:\\Users\\U30787\\Desktop\\hackathon\\development\\workspace\\eventbuster2\\eventbuster2\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\high.png",
-        "source": "C:\\Users\\U30787\\Desktop\\hackathon\\development\\workspace\\eventbuster2\\eventbuster2\\res\\mipmap-mdpi\\high.png"
+        "merged": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\search.jpg",
+        "source": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\res\\mipmap-mdpi\\search.jpg"
     },
     {
-        "merged": "C:\\Users\\U30787\\Desktop\\hackathon\\development\\workspace\\eventbuster2\\eventbuster2\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\low.png",
-        "source": "C:\\Users\\U30787\\Desktop\\hackathon\\development\\workspace\\eventbuster2\\eventbuster2\\res\\mipmap-mdpi\\low.png"
+        "merged": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\high.png",
+        "source": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\res\\mipmap-mdpi\\high.png"
+    },
+    {
+        "merged": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\plusbutton.png",
+        "source": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\res\\mipmap-mdpi\\plusbutton.png"
+    },
+    {
+        "merged": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\low.png",
+        "source": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\res\\mipmap-mdpi\\low.png"
+    },
+    {
+        "merged": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\logo.png",
+        "source": "F:\\Dev\\hackathon\\workspace\\eventbuster3\\eventbuster2\\res\\mipmap-mdpi\\logo.png"
     }
 ]

@@ -3,10 +3,10 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: eventbuster2
-  host: eventbuster2
+  name: eventbuster
+  host: eventbuster
   disk_quota: 1024M
   services:
-  - eventbuster2-AdvancedMobileAccess
-  - eventbuster2-imfpush
+  - eventbuster-AdvancedMobileAccess
+  - eventbuster-imfpush
   - eventbuster-cloudantNoSQLDB

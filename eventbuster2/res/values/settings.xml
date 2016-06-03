@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="default_user">3bff8b23-aac6-4813-8ee1-72facc95922b-bluemix</string>
+    <string name="default_user">40f896f6-8f14-4fdb-8dce-58f515a0460e-bluemix</string>
     <string name="default_dbname">eventbuster</string>
-    <string name="default_api_key">eeksteractiststuaressiza</string>
-    <string name="default_api_password">3e1ac964a303da22fd9fe666f5d5331e6a32b9c9</string>
-
+    <string name="default_api_key">madvagandessiderentitter</string>
+    <string name="default_api_password">efdafc3efb2025d90b48320b48afde7b6b7dd3bb</string>
 </resources>

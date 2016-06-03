@@ -21,6 +21,10 @@ dependencies {
     compile(group: 'com.cloudant', name: 'cloudant-sync-datastore-android', version:'latest.release')
     // needed for PeriodicReplicationReceiver etc
     compile 'com.android.support:support-v13:23.3.0'
+
+    compile 'com.ibm.watson.developer_cloud:java-sdk:3.0.0-RC1'
+
+
 }
 
 android {
